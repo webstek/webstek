@@ -1,0 +1,4 @@
+- Hi, this is Kyle's Github
+- Interests: Applied Mathematics/Computational physics
+- Things I'm learning: C++, gpu coding, and actual math and physics.
+- Email: kyle.jr.webster@gmail.com
