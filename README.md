@@ -1,4 +1,4 @@
 - Hi, this is Kyle's Github
 - Interests: Scientific Computing/Computational physics/Geometric Algebra
-- Things I'm learning: C++, gpu coding, and actual math and physics.
+- Things I'm learning: CUDA, computer graphics, and DotA 2.
 - Email: kyle.jr.webster@gmail.com
