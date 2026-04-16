@@ -1,4 +1,4 @@
 # Hi, this is Kyle's Github
-- Interests: Computational Physics/Geometric Algebra/Rendering
-- Things I'm learning: Computer graphics, the APL programming languagae, and DotA 2 for fun.
+- Interests: Rendering/Computational PDEs/Geometric Algebra
+- Things I'm learning: Light transport methods, the D programming languagae, and DotA 2 for fun.
 - Email: kyle.jr.webster@gmail.com
